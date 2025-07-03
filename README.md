@@ -36,7 +36,7 @@ A comprehensive backend system for real-time flight status notifications designe
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Recodex-ID/fsns-backend.git
 cd fsns-backend
 ```
 
