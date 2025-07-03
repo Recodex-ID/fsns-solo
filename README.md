@@ -37,7 +37,7 @@ A comprehensive backend system for real-time flight status notifications designe
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd fsns-solo
+cd fsns-backend
 ```
 
 2. Install dependencies:

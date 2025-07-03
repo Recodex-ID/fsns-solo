@@ -1,5 +1,5 @@
 {
-  "name": "fsns-solo",
+  "name": "fsns-backend",
   "version": "1.0.0",
   "description": "Flight Status Notification System - Aviation backend for PT EDIfly Solusi Indonesia",
   "main": "src/server.js",
