@@ -47,20 +47,10 @@
     "eslint-plugin-import": "^2.28.1",
     "eslint-plugin-n": "^16.0.2",
     "eslint-plugin-promise": "^6.1.1",
-    "@types/jest": "^29.5.4"
+    "@types/jest": "^29.5.4",
+    "mongodb-memory-server": "^9.0.1"
   },
   "engines": {
     "node": ">=16.0.0"
-  },
-  "jest": {
-    "testEnvironment": "node",
-    "collectCoverageFrom": [
-      "src/**/*.js",
-      "!src/server.js"
-    ],
-    "testMatch": [
-      "**/__tests__/**/*.js",
-      "**/?(*.)+(spec|test).js"
-    ]
   }
 }
